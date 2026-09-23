@@ -223,4 +223,4 @@ Ri-li is the complete free version, offering all features and updates without an
 Download Ri-li now and embark on an exciting train adventure that combines fun, learning, and skill development!
 
 ---
-**Last updated:** 2026-09-23 07:02:18 UTC
+**Last updated:** 2026-09-23 13:09:18 UTC
